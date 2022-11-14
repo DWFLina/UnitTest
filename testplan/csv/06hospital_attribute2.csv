@@ -1,0 +1,10 @@
+patientage1,患者年龄1,Integer,9
+patientrealname1,患者真实姓名1,String,50
+patientappointmenttime1,患者任职时间1,TimeStamp,6
+patientgender1,患者性别1,Boolean,1
+patientfractionalline1,患者身高1,Double,126
+patientlength1,患者长度1,Long,20
+patientstudentI1,患者学号1,UUID,32
+patienthappy1,患者生日1,Date,7
+patientremarksInformation1,患者备注1,Clob,1024
+patientmepicture1,患者图片1,LocalFile,1024
