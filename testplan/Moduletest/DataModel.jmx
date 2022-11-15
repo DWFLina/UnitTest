@@ -92,7 +92,7 @@
       </Arguments>
       <hashTree/>
       <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="读取ip" enabled="true">
-        <stringProp name="filename">../data/ipAddress.txt</stringProp>
+        <stringProp name="filename">/usr/local/jenkins/workspace/API_Moduletest/testplan/Moduletest/data/ipAddress.txt</stringProp>
         <stringProp name="fileEncoding">utf-8</stringProp>
         <stringProp name="variableNames">ipAddress</stringProp>
         <stringProp name="delimiter">,</stringProp>
@@ -209,7 +209,7 @@
           <hashTree/>
         </hashTree>
         <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="Include Controller" enabled="true">
-          <stringProp name="IncludeController.includepath">../data/登录.jmx</stringProp>
+          <stringProp name="IncludeController.includepath">/usr/local/jenkins/workspace/API_Moduletest/testplan/Moduletest/data/登录.jmx</stringProp>
           <stringProp name="TestPlan.comments">../data/登录.jmx</stringProp>
         </IncludeController>
         <hashTree/>
