@@ -209,7 +209,7 @@
           <hashTree/>
         </hashTree>
         <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="Include Controller" enabled="true">
-          <stringProp name="IncludeController.includepath">D:\UnitTest\testplan\API_Moduletest\data\登录.jmx</stringProp>
+          <stringProp name="IncludeController.includepath">../data/登录.jmx</stringProp>
           <stringProp name="TestPlan.comments">../data/登录.jmx</stringProp>
         </IncludeController>
         <hashTree/>
